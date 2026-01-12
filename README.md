@@ -12,6 +12,8 @@ It walks a directory, finds `NTUSER.DAT` files, decodes UserAssist entries (ROT-
 
 The script supports optional filtering by user and can export results to CSV.
 
+<img src="screenshot.png"/>
+
 # Background
 
 `UserAssist` artifacts store Windows user activity data that is especially useful for identifying evidence of program execution and are located under:
